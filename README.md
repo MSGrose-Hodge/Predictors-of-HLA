@@ -16,7 +16,10 @@
 	<p>Principal component analysis: <a href="/Predictors-of-HLA/fluency-PCA-without-overlapping-measures 2.html>Principal Component Analysis</a></p>
 	<p>&nbsp;&nbsp;&nbsp;<a href="/Predictors-of-HLA/fluency-PCA-without-overlapping-measures 2.html>Analysis 1</a></p>
 	>PCA Analysis</a> </p>
-	<p>&nbsp;&nbsp;&nbsp;<a href="/Predictors-of-HLA/fluency-PCA-without-overlapping-measures 2.html">PCA Analysis</a></p>
+	<p>&nbsp;&nbsp;&nbsp;<a href="/Predictors-of-HLA/fluency-PCA-without-overlapping-measures 2.html">PCA Analysis</a</p>
+
+
+<p>&nbsp;&nbsp;&nbsp;<a href="/Predictors-of-HLA/PCA-fluency.html">PCA Analysis 2</a</p>
 	
 	
 
